@@ -1,4 +1,4 @@
-package kg.sim_Bank.payment.notification;
+package kg.sim_Bank.notification;
 
 public class Notification {
     static void main() {

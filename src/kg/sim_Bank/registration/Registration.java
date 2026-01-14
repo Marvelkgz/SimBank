@@ -1,4 +1,4 @@
-package kg.sim_Bank.payment.registration;
+package kg.sim_Bank.registration;
 
 public class Registration {
     static void main() {

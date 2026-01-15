@@ -13,5 +13,10 @@ public class JanuaryPromotions {
         System.out.println("January7");
         System.out.println("January9:");
 
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+
+
     }
 }
